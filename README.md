@@ -9,7 +9,7 @@
 </p>
 
 
-Find detailed description - https://abodeofmystories.blogspot.com/2021/07/eactNative-Checkbox-cant-be-pressed-more-than-1-time-Android.html
+Find detailed description - https://abodeofmystories.blogspot.com/2021/07/ReactNative-Checkbox-cant-be-pressed-more-than-1-time-Android.html
 
 ## Install at local
 Open Terminal, then type command:  
