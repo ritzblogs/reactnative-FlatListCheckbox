@@ -1,0 +1,6 @@
+module Pods_FlatListCheckbox_FlatListCheckboxTests {
+  umbrella header "Pods-FlatListCheckbox-FlatListCheckboxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

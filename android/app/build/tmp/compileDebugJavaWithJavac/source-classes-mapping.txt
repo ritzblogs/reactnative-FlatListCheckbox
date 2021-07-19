@@ -1,0 +1,14 @@
+com/flatlistcheckbox/MainActivity.java
+ com.flatlistcheckbox.MainActivity
+com/flatlistcheckbox/BuildConfig.java
+ com.flatlistcheckbox.BuildConfig
+com/flatlistcheckbox/MainApplication.java
+ com.flatlistcheckbox.MainApplication
+ com.flatlistcheckbox.MainApplication$1
+com/flatlistcheckbox/ReactNativeFlipper.java
+ com.flatlistcheckbox.ReactNativeFlipper
+ com.flatlistcheckbox.ReactNativeFlipper$1
+ com.flatlistcheckbox.ReactNativeFlipper$2
+ com.flatlistcheckbox.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
